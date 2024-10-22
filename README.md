@@ -2,7 +2,7 @@
 Memento is a behavioral design pattern that lets you save and restore the previous state of an object without revealing the details of its implementation.
 
 
-# There are multiple implementations of the Mementoo design pattern
+# There are multiple implementations of the Memento design pattern
 
 <b> Implementation based on nested classes </b>
 
